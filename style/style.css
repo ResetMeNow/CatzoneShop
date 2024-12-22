@@ -119,9 +119,9 @@ header {
 
 .card img {
   width: 100%;
-  height: 200px; /* Tamaño ajustado para las imágenes */
-  object-fit: contain; /* Escala la imagen sin deformarla */
-  object-position: center; /* Centra la imagen */
+  height: 200px; 
+  object-fit: contain;
+  object-position: center; 
 }
 #product-list .card-title {
   font-size: 1.2rem;
@@ -136,7 +136,7 @@ header {
   border: none;
   padding: 10px 15px;
   font-size: 1rem;
-  border-radius: 5px;
+  border-radius: 1px;
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
 

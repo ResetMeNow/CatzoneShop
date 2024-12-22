@@ -4,7 +4,7 @@
     "id": 1,
     "name": "Ventanas seguras con repisas",
     "price": 300,
-    "description": "Vistas seguras, felicidad garantizada.",
+    "description": "Vistas seguras, felicidad garantizada. Para que no pases sustos y tu gato viva en un entorno seguro. Gracias a estas ventanas podrás vivir tranquilo.",
     "image": "./images/ventana.jpg",
     "category": "Accesorios"
   },
@@ -12,7 +12,7 @@
     "id": 2,
     "name": "Cámaras interactivas para gatos",
     "price": 400,
-    "description": "Conéctate con tu gato en cualquier momento y lugar. Nuestras cámaras interactivas te permiten vigilar, jugar y hablar con tu felino mientras estás fuera.Tu gato nunca se sentirá solo",
+    "description": "Conéctate con tu gato en cualquier momento y lugar. Nuestras cámaras interactivas te permiten vigilar, jugar y hablar con tu felino.",
     "image": "./images/camara.jpg",
     "category": "Accesorios"
   },
@@ -60,7 +60,7 @@
     "id": 8,
     "name": "Comida para gatitos 3kg",
     "price": 35,
-    "description": "Especialmente diseñada para gatitos en crecimiento.",
+    "description": "Diseñada para gatitos en crecimiento",
     "image": "./images/comida3kg.jpg",
     "category": "Comida"
   },
@@ -84,7 +84,7 @@
     "id": 11,
     "name": "Juguete interactivo con láser",
     "price": 40,
-    "description": "Entretenimiento garantizado para tu gato.",
+    "description": "Entretenimiento garantizado para tu gato. Se pondrá juguetón al instante",
     "image": "./images/lasergato.jpg",
     "category": "Juguetes"
   },
@@ -92,7 +92,7 @@
     "id": 12,
     "name": "Ratón de peluche",
     "price": 10,
-    "description": "Un juguete clásico para los gatos.",
+    "description": "Un juguete clásico para los gatos. A todo felino le gusta",
     "image": "./images/ratonjuego.jpg",
     "category": "Juguetes"
   },
