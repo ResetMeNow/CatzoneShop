@@ -1,0 +1,171 @@
+[
+  
+  {
+    "id": 1,
+    "name": "Ventanas seguras con repisas",
+    "price": 300,
+    "description": "Vistas seguras, felicidad garantizada.",
+    "image": "./images/ventana.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 2,
+    "name": "Cámaras interactivas para gatos",
+    "price": 400,
+    "description": "Conéctate con tu gato en cualquier momento y lugar. Nuestras cámaras interactivas te permiten vigilar, jugar y hablar con tu felino mientras estás fuera.Tu gato nunca se sentirá solo",
+    "image": "./images/camara.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 3,
+    "name": "Hierba gatera",
+    "price": 450,
+    "description": "¡Despierta los sentidos de tu gato con nuestra hierba gatera premium! Diversión, relajación y felicidad en cada hoja.",
+    "image": "./images/hierba.jpg",
+    "category": "Comida"
+  },
+  {
+    "id": 4,
+    "name": "Rascador mediano",
+    "price": 80,
+    "description": "Rascador compacto para espacios pequeños.",
+    "image": "./images/rascador.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 5,
+    "name": "Rascador grande con juguete",
+    "price": 150,
+    "description": "Incluye bolas colgantes para estimular el juego.",
+    "image": "./images/rascador-grande.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 6,
+    "name": "Transportadora para gatos",
+    "price": 70,
+    "description": "Perfecta para viajes seguros.",
+    "image": "./images/transportadora.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 7,
+    "name": "Comida Premium 5kg",
+    "price": 50,
+    "description": "Comida balanceada y nutritiva para gatos.",
+    "image": "./images/comidapremiun.png",
+    "category": "Comida"
+  },
+  {
+    "id": 8,
+    "name": "Comida para gatitos 3kg",
+    "price": 35,
+    "description": "Especialmente diseñada para gatitos en crecimiento.",
+    "image": "./images/comida3kg.jpg",
+    "category": "Comida"
+  },
+  {
+    "id": 9,
+    "name": "Arena aglomerante 10kg",
+    "price": 25,
+    "description": "Arena de fácil limpieza y bajo olor.",
+    "image": "./images/arena.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 10,
+    "name": "Arenero automático",
+    "price": 200,
+    "description": "Mantén limpio tu hogar con este arenero automático.",
+    "image": "./images/arenero.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 11,
+    "name": "Juguete interactivo con láser",
+    "price": 40,
+    "description": "Entretenimiento garantizado para tu gato.",
+    "image": "./images/lasergato.jpg",
+    "category": "Juguetes"
+  },
+  {
+    "id": 12,
+    "name": "Ratón de peluche",
+    "price": 10,
+    "description": "Un juguete clásico para los gatos.",
+    "image": "./images/ratonjuego.jpg",
+    "category": "Juguetes"
+  },
+  {
+    "id": 13,
+    "name": "Pluma colgante",
+    "price": 12,
+    "description": "Estimula el instinto cazador de tu gato.",
+    "image": "./images/pluma.jpg",
+    "category": "Juguetes"
+  },
+  {
+    "id": 14,
+    "name": "Cama de lujo para gatos",
+    "price": 100,
+    "description": "Diseño ergonómico y materiales suaves.",
+    "image": "./images/camagatos.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 15,
+    "name": "Collar con GPS",
+    "price": 150,
+    "description": "Localiza a tu gato en todo momento.",
+    "image": "./images/collargato.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 16,
+    "name": "Fuente de agua para gatos",
+    "price": 60,
+    "description": "Promueve la hidratación con agua fresca.",
+    "image": "./images/fuentedeagua.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 17,
+    "name": "Golosinas de salmón 100g",
+    "price": 8,
+    "description": "Un delicioso premio para tu gato.",
+    "image": "./images/golosinas.jpg",
+    "category": "Comida"
+  },
+  {
+    "id": 18,
+    "name": "Puerta para gatos",
+    "price": 50,
+    "description": "Permite la entrada y salida sin problemas.",
+    "image": "./images/puertagato.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 19,
+    "name": "Cortaúñas para gatos",
+    "price": 20,
+    "description": "Cuida las uñas de tu gato de forma segura.",
+    "image": "./images/cortauñas.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 20,
+    "name": "Set de platos para comida y agua",
+    "price": 30,
+    "description": "Dos platos de acero inoxidable.",
+    "image": "./images/comidayagua.jpg",
+    "category": "Accesorios"
+  },
+  {
+    "id": 21,
+    "name": "Comida humedas para gatos",
+    "price": 30,
+    "description": "_Pack de 6 tarrinas de comida húmeda para gatos, super premium.",
+    "image": "./images/comidahumeda.jpg",
+    "category": "Comida"
+  }
+]
